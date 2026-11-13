@@ -1,2 +1,2 @@
-# taller1-equipo-1
+# # Equipo N - Los Commiteros
 Taller hecho por el equipo 1 
