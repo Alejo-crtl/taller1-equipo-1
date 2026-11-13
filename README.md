@@ -1,2 +1,2 @@
-# # Equipo N - Los Commiteros
+# Equipo 1 - los cachys
 Taller hecho por el equipo 1 
