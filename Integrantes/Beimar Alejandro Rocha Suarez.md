@@ -1,5 +1,6 @@
 # Beimar Alejandro Rocha Suarez
 - Usuario de GitHub: Alejo-crtl
+- Rol: Backend
 - Lo que más me gustó del curso GitHub Foundations: 
 
 - Flujo natural: Que crear ramas, hacer commits, abrir PRs y fusionar sea un reflejo automático, sin tener que consultar apuntes.
