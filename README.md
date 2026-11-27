@@ -20,3 +20,5 @@ revisados por pares y uso de Conventional Commits.
 
    ```bash
    git clone https://github.com/Alejo-crtl/taller1-equipo-1
+   ```
+   Consulta nuestro [estándar de codificación](ESTANDAR.md).
