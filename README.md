@@ -1,4 +1,4 @@
-# Equipo 1 - los cachys
+# Equipo 1 - Los Cachys
 
 ## Descripción
 
